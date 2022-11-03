@@ -5,6 +5,7 @@ block content
   p Welcome to horizons 
   button(type="button", class="btn btn-dark" onclick ="doBump()") press me 
   div#bump Bump the count
+  a(href="kansas") kansas.results
   script.  
     var count = 0
     var bump = 1
@@ -13,4 +14,3 @@ block content
       bump = bump + 1
       document.getElementById("bump").innerHTML = "Count "+ count +" Bump "+bump;
     }
-a(href="search")search.results
