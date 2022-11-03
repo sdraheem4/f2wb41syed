@@ -2,4 +2,4 @@
 hello maryville
 
 Item name: kansas , Attribute of kansas<br>
-population =10000, airports= 2, outlets=5
+population ="100000", airports= 2, outlets="malls"
